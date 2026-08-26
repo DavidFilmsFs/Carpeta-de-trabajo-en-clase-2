@@ -1,3 +1,34 @@
+
 p {
-    color: red;
+background-color: blanchedalmond;
+width: fit-content;
+font: "Times New Roman", Times, serif; font-size: larger;
 }
+
+
+li {
+    color:green;
+}
+
+.Texto1 {
+    color:blue;
+}
+
+.Pelicula {
+    color: blueviolet;
+}
+
+.nombre{
+font: "Fantasy", Times, serif; font-size:xx-large;
+}
+
+#titulo {
+    border:  8px red groove;
+    background-color: lightcyan;
+    height: auto; 
+    width: fit-content;
+    padding: 15px; 
+    border-radius: 4px;
+}
+
+.YoutubeEnlace:hover {color: aquamarine;}
